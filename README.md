@@ -3,6 +3,5 @@
  pide la creacion de una tienda online en javascript puro , con la posibilidad de hacer uso de 
  componentes externos como bootstrapp y jquery.
 ## Hosting
- El sitio web se encuentra alojado en Netlify[https://app.netlify.com/], en el siguiente link tienda[google.com]
+ El sitio web se encuentra alojado en [Netlify](https://app.netlify.com/), en el siguiente link [tienda](https://gorgeous-tanuki-f34987.netlify.app/)
 
- 
